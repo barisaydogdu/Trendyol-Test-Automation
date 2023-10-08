@@ -1,0 +1,34 @@
+Created by baris on 6.10.2023
+
+#Ağ sayfasına gidilir
+*Sayfanın yüklenmesi beklenir
+*"logo" varlığı kontrol edilir "Logo Yok"
+*"https://www.trendyol.com/" URL'sinin geldiği kontrol edilir
+
+#Pop-up kapatılır
+*"crossSymbol" yüklenmesi beklenir
+*"crossSymbol" varlığı kontrol edilir "Pop-up Yok!"
+*"crossSymbol" elementine tıklanır
+
+#Giriş yapma sayfasına gidilir
+*"homeLoginButton" yüklenmesi beklenir
+*"homeLoginButton" varlığı kontrol edilir "Giriş Yönlendirme Butonu Yok!"
+*"homeLoginButton" elementine tıklanır
+
+#TextBox alanına gözlük yazdırılır ve enter tuşuna basılır
+*"homePageSearchBox" yüklenmesi beklenir
+*"homePageSearchBox" varlığı kontrol edilir "SearchBox doğru bir şekilde yüklenmedi!"
+*"homePageSearchBox" alanına "gözlük" yazılır
+*Enter tuşuna basılır
+
+This is a concept file with following syntax for each concept.
+#Sayfa Açılır ve giriş yapma sayfasına yönlendirilmesi beklenir
+*Ağ sayfasına gidilir
+*Pop-up kapatılır
+*Giriş yapma sayfasına gidilir
+
+#Kullanıcı giriş yaptıktan sonra çok satanlara tıklanır
+*"bestSeller" yüklenmesi beklenir
+*"2" Saniye kadar bekle
+*"bestSeller" varlığı kontrol edilir "Sayfa Düzgün yüklenemedi"
+*"bestSeller" elementine tıklanır

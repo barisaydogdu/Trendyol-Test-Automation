@@ -1,0 +1,71 @@
+{
+  "emailField": {
+    "type": "id",
+    "value": "login-email"
+  },
+  "passwordField": {
+    "type": "id",
+    "value": "login-password-input"
+  },
+  "registerTab": {
+    "type": "css",
+    "value": ".right.q-secondary > span"
+  },
+  "homeLoginButton": {
+    "type": "classname",
+    "value": "link-text"
+  },
+  "crossSymbol":
+  {
+    "type":"id",
+    "value": "Combined-Shape"
+  },
+  "loginButton": {
+    "type": "css",
+    "value": "div#login-register > div:nth-of-type(3) > div > form > button"
+  },
+  "logo": {
+    "type": "xpath",
+    "value": "//img[@alt='Trendyol']"
+  },
+  "productsList": {
+    "type": "classname",
+    "value": "product-card"
+  },
+  "firstProduct": {
+    "type": "classname",
+    "value": "product-card"
+  },
+  "addToBasketButton": {
+    "type": "xpath",
+    "value": "//div[@class='add-to-basket-button-text']"
+  },
+  "understandButton": {
+    "type": "css",
+    "value": ".campaign-button"
+  },
+  "basketIcon": {
+    "type": "css",
+    "value": ".account-basket > .link-text"
+  },
+  "bestSeller": {
+    "type": "css",
+    "value": ".main-nav > li:nth-of-type(10) > .category-header"
+  },
+  "sortButton": {
+    "type": "classname",
+    "value": "search-sort-container"
+  },
+  "productPriceElement": {
+    "type": "css",
+    "value": ".product-price-container .prc-dsc"
+  },
+  "basketPriceElement": {
+    "type": "css",
+    "value": ".pb-wrapper > .pb-merchant-group > div:nth-of-type(2) .pb-basket-item-price"
+  },
+  "homePageSearchBox": {
+    "type": "xpath",
+    "value": "//input[contains(@placeholder,'Aradığınız ürün, kategori veya markayı yazınız')]"
+  }
+}

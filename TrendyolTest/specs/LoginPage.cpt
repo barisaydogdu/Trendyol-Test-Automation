@@ -1,0 +1,18 @@
+Created by baris on 6.10.2023
+
+This is a concept file with following syntax for each concept.
+#Sayfanın geldiği kontrol edilir
+*"loginButton" yüklenmesi beklenir
+*"loginButton" varlığı kontrol edilir "Sayfa düzgün yüklenmedi"
+
+#Kullanıcı bilgileri CSV dosyasından doldurulur
+*Sayfa kullanıcının CSV dosyasını açar
+*Sayfa CSV dosyasından kullanıcı bilgilerini okur
+*"emailField" ve "passwordField" doldurulur
+*"loginButton" elementine tıklanır
+
+
+#Giriş sayfasının geldiği kontrol edilir ve kullanıcının giriş yapması beklenir
+*Sayfanın geldiği kontrol edilir
+*Kullanıcı bilgileri CSV dosyasından doldurulur
+

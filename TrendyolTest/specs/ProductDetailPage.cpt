@@ -1,0 +1,31 @@
+Created by baris on 7.10.2023
+
+This is a concept file with following syntax for each concept.
+#Ürünün başarıyla favorilere eklenmesi beklenir
+*Yeni pencereye geçiş yap
+*Sayfanın yüklenmesi beklenir
+*"addToBasketButton" yüklenmesi beklenir
+//*Sayfada "favoriteButton" öğesine scroll yapılır
+*"addToBasketButton" varlığı kontrol edilir "Sepet butonu gözükmüyor"
+*"addToBasketButton" elementine tıklanır
+*"10" Saniye kadar bekle
+
+
+#Ürünün başarıyla sepete eklenmesi beklenir
+*Yeni pencereye geçiş yap
+*Sayfanın yüklenmesi beklenir
+//*Eğer buton gözüküyorsa,butona tıkla.Görünmüyorsa diğer adımlara devam et
+*"addToBasketButton" yüklenmesi beklenir
+//*Sayfada "favoriteButton" öğesine scroll yapılır
+*"addToBasketButton" varlığı kontrol edilir "Sepet butonu gözükmüyor"
+*"addToBasketButton" elementine tıklanır
+
+
+#Sepete gidilir
+*"basketIcon" yüklenmesi beklenir
+*"basketIcon" varlığı kontrol edilir "Sepet butonu gözükmüyor"
+*"basketIcon" elementine tıklanır
+*"10" Saniye kadar bekle
+
+//#Ürün fiyatıyla sepet fiyatı karşılaştırılır
+//*"basketPriceElement" Ürün fiyatı sepet fiyatıyla karşılaştırılır

@@ -1,0 +1,9 @@
+Created by baris on 6.10.2023
+
+This is a concept file with following syntax for each concept.
+#Rastgele bir ürüne tıklanması beklenir
+*"productsList" yüklenmesi beklenir
+*"productsList" Rastgele bir ürünü seç ve tıkla
+*Sayfada "productsList" öğesine scroll yapılır
+
+
