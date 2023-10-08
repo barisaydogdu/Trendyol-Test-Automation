@@ -1,8 +1,6 @@
-# Trendyol Test Automation
+# TrendyolTest - Automation Testing of Trendyol with Selenium
  "TrendyolTest is a project developed using Java and Selenium to perform automation tests on the Trendyol e-commerce website. This project automates navigation through different sections of the website, adding products to the cart, and selecting random products."
 
-
-#TrendyolTest - Automation Testing of Trendyol with Selenium
 This project has been developed using Java and Selenium to automate some basic functionalities of the Trendyol e-commerce website. The project includes operations such as navigation on the website, adding products to the shopping cart, and selecting random products.
 
 Requirements
